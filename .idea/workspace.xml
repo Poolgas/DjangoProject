@@ -1,66 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cf6d29d5-d216-41d9-b12e-f379b71d2d67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Django_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/.idea/Homework_Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/alembic.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/backend/db.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/migrations/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/migrations/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/migrations/script.py.mako" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/migrations/versions/51d2497d557c_initial_migration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/models/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/models/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/routers/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/routers/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/routers/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/app/schemas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pracitce/mod17_FasApi_Part2/Homework_Project/taskmanager.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Repka/Text1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Repka/Text2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Repka/Text3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Практические задания/repka" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2o12d4dDklkZTt4F0P9TU45XWdb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,6 +59,27 @@
       <option name="presentableId" value="Default" />
       <updated>1730022844637</updated>
     </task>
+    <task id="LOCAL-00001" summary="Домашнее задание по теме &quot;Установка Django и создание проекта.&quot;">
+      <option name="closed" value="true" />
+      <created>1730023326004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730023326004</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Домашнее задание по теме &quot;Установка Django и создание проекта.&quot;">
+      <option name="closed" value="true" />
+      <created>1730023367001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730023367001</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашнее задание по теме &quot;Установка Django и создание проекта.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Установка Django и создание проекта.&quot;" />
   </component>
 </project>
