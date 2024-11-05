@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf6d29d5-d216-41d9-b12e-f379b71d2d67" name="Changes" comment="Домашнее задание по теме &quot;DTL. Теги, наследование.&quot;&#10;Цель: освоить синтаксис и инструменты DTL (Языка динамических шаблонов) на практике.">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
+    <list default="true" id="cf6d29d5-d216-41d9-b12e-f379b71d2d67" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/second_task/main_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/main_page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730299958689</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Домашнее задание по теме &quot;Формы отправки данных. HTML и Django формы&quot;&#10;Цель: понять на практике как работают POST запросы в Django. Использовать формы для обработки этих запросов.">
+      <option name="closed" value="true" />
+      <created>1730579002275</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730579002275</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Домашнее задание по теме &quot;Формы отправки данных. HTML и Django формы&quot;&#10;Цель: понять на практике как работают POST запросы в Django. Использовать формы для обработки этих запросов.">
+      <option name="closed" value="true" />
+      <created>1730579170708</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730579170708</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +129,7 @@
     <MESSAGE value="Домашнее задание по теме &quot;Urls и Views. Функциональное и классовое представление.&quot;&#10;&#10;Цель: закрепить знания о маршрутах (urls) и представлениях (views) в Django." />
     <MESSAGE value="Домашнее задание по теме &quot;Базовые HTML тэги в шаблонах&quot;.&#10;Цель: применить изученные теги HTML, написав многостраничный проект." />
     <MESSAGE value="Домашнее задание по теме &quot;DTL. Теги, наследование.&quot;&#10;Цель: освоить синтаксис и инструменты DTL (Языка динамических шаблонов) на практике." />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;DTL. Теги, наследование.&quot;&#10;Цель: освоить синтаксис и инструменты DTL (Языка динамических шаблонов) на практике." />
+    <MESSAGE value="Домашнее задание по теме &quot;Формы отправки данных. HTML и Django формы&quot;&#10;Цель: понять на практике как работают POST запросы в Django. Использовать формы для обработки этих запросов." />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Формы отправки данных. HTML и Django формы&quot;&#10;Цель: понять на практике как работают POST запросы в Django. Использовать формы для обработки этих запросов." />
   </component>
 </project>
